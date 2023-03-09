@@ -3,3 +3,8 @@
     padding:0;
 }
 
+#show{
+    font-size: 25px;
+    border: 1px solid blue;
+    margin: 20px;
+}
