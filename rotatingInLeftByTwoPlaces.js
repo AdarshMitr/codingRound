@@ -1,6 +1,6 @@
 // Rotating the array in left by two places.
 
-const input=[2,7,11,4,-2];
+const input=[2,7,11,4,-2,];
 const output=[11,4,-2,2,7];
 
 
