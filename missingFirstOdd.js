@@ -2,10 +2,10 @@
 
 //for finding first missing number in an Arithmetic Progression
 
-const input=[5,7,9,11,15,17];
-//let n=2;
+const input=[5,7,9,11,13,15,17,21];
+let n=2;
 const input1=[2,5,8,14,17]
-let n=3;
+//let n=3;
 
 const output=13;
 function findMissingOdd(input){
@@ -23,4 +23,4 @@ function findMissingOdd(input){
 
 
 
-document.getElementById('show').innerHTML=findMissingOdd(input1);
+document.getElementById('show').innerHTML=findMissingOdd(input);
